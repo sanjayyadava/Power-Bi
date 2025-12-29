@@ -1,4 +1,7 @@
 # Power-Bi
 
 
- ![Alt text](https://github.com/sanjayyadava/Power-Bi/blob/main/fabindia%20project/Dashboard_Screenshot_12158_.jpeg =600x300)
+
+<img src="(https://github.com/sanjayyadava/Power-Bi/blob/main/fabindia%20project/Dashboard_Screenshot_12158_.jpeg"
+     width="600"
+     height="350">
