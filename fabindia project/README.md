@@ -1,1 +1,15 @@
-# Power-Bi
+# Power BI Project: Retail Store Sales Analysis
+Project Objective
+
+<ul> 
+  
+<li>Analyze retail store sales data to:</li>
+
+<li>Track sales & profit performance</li>
+
+<li>Identify top products & categories</li>
+
+<li>Analyze customer and regional trends</li>
+
+<li>Improve business decision-making</li>
+</ul> 
