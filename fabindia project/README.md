@@ -13,4 +13,4 @@ Project Objective
 
 <li>Improve business decision-making</li>
 </ul> 
-![Alt fabindia dashboard]([https://example.com/path/to/image.png](https://github.com/sanjayyadava/Power-Bi/blob/main/fabindia%20project/Screenshot_29-12-2025_12158_.jpeg))
+![Alt fabindia dashboard]((https://github.com/sanjayyadava/Power-Bi/blob/main/fabindia%20project/Screenshot_29-12-2025_12158_.jpeg))
